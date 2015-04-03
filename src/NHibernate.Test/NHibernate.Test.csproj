@@ -857,6 +857,10 @@
     <Compile Include="NHSpecificTest\NH3604\FixtureByCode.cs" />
     <Compile Include="NHSpecificTest\NH3754\Fixture.cs" />
     <Compile Include="NHSpecificTest\NH3754\Model.cs" />
+    <Compile Include="NHSpecificTest\NH3772\CustomGenericCollection.cs" />
+    <Compile Include="NHSpecificTest\NH3772\Entity.cs" />
+    <Compile Include="NHSpecificTest\NH3772\Fixture.cs" />
+    <Compile Include="NHSpecificTest\NH3772\Utils.cs" />
     <Compile Include="NHSpecificTest\NH646\Domain.cs" />
     <Compile Include="NHSpecificTest\NH646\Fixture.cs" />
     <Compile Include="NHSpecificTest\NH3234\Fixture.cs" />
